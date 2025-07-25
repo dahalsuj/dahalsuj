@@ -1,7 +1,6 @@
 ## Hi there 👋 I'm Sujata Dahal
 
-🚀 Cloud Engineer | ☁️ DevOps Enthusiast | 🛠️ Infrastructure as Code Advocate
-
+🚀 Cloud Engineer | ☁️ DevOps Engineer 
 ---
 
 ### 🌍 About Me
